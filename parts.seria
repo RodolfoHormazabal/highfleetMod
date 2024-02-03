@@ -1240,8 +1240,8 @@ m_master_id=3086509121060961972
 m_position.x=-92.4999
 m_position.y=-55.0714
 m_stage=6
-m_density=1485
-m_mass=99623.8
+m_density=1250
+m_mass=100000
 m_mesh=1073741827
 {
 m_classname=Mesh
@@ -1332,8 +1332,8 @@ m_master_id=3086509121060961972
 m_position.x=-87.5714
 m_position.y=-54.9285
 m_stage=6
-m_density=1500
-m_mass=49313.9
+m_density=1250
+m_mass=50000
 m_mesh=1073741827
 {
 m_classname=Mesh
@@ -1402,7 +1402,7 @@ m_master_id=3086509121060961972
 m_position.x=-109.643
 m_position.y=-49
 m_stage=6
-m_density=1500
+m_density=1250
 m_mass=24656.9
 m_mesh=1073741827
 {
@@ -1456,7 +1456,7 @@ m_position.y=-23.4286
 m_center.x=0.05
 m_center.y=0.05
 m_stage=6
-m_density=1636.27
+m_density=1363.5583
 m_mass=22603.4
 m_mesh=1073741827
 {
@@ -1510,7 +1510,7 @@ m_position.y=-48.5
 m_center.x=-0.30002
 m_center.y=-0.299995
 m_stage=6
-m_density=2636.93
+m_density=2197.4416
 m_mass=14025.9
 m_mesh=1073741827
 {
@@ -2212,7 +2212,7 @@ m_children=15
 m_classname=Body
 m_code=15
 m_id=-6913130535789798637
-m_name=CANNON 37ìì
+m_name=CANNON 37ï¿½ï¿½
 m_state=2
 m_master_id=3086509121060961972
 m_position.x=-84.5713
